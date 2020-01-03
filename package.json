@@ -1,0 +1,26 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "drum kit with keyboard",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zimonturkish/drum-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zimonturkish/drum-kit/issues"
+  },
+  "homepage": "https://github.com/zimonturkish/drum-kit#readme"
+}
